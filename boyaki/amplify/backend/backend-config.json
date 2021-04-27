@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "endo000boyaki619c617b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
